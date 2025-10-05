@@ -2,25 +2,12 @@
 ## 🧠 AI Analysis Demo
 
 ![Resume Doctor AI Demonstration](https://github.com/TABISHCODING/resume-doctor.ai/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif?raw=true)
+---
 WEBSITE LINK->https://resume-doctor-ai-frontend.onrender.com/us10_login.html
 ---
 # 🩺 Resume Doctor AI - Complete Setup & Deployment Guide
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Critical Fixes Applied](#critical-fixes-applied)
-- [Deployment URLs](#deployment-urls)
-- [Environment Variables](#environment-variables)
-- [Local Development Setup](#local-development-setup)
-- [Production Deployment](#production-deployment)
-- [Database Management](#database-management)
-- [Troubleshooting](#troubleshooting)
-
-## 🎯 Overview
-
 Resume Doctor AI is a comprehensive AI-powered resume analysis and job matching platform built with Flask (backend) and vanilla JavaScript (frontend). The application provides intelligent resume scanning, keyword extraction, job matching, and improvement suggestions.
-
+---
 ### Key Features
 - 🔐 User Authentication & Authorization
 - 📄 Resume Upload & Analysis
